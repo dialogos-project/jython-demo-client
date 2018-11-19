@@ -8,6 +8,7 @@ apply plugin: 'java-library'
 repositories {
   jcenter()
   maven { url "https://jitpack.io" }
+  mavenLocal()
 }
 
 dependencies {
