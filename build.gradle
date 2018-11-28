@@ -1,5 +1,5 @@
 plugins {
-  id "com.github.rzabini.gradle-jython" version "1.0.0"
+  id "com.github.rzabini.gradle-jython" version "1.0.9"
 }
 
 apply plugin: 'java-library'
@@ -23,5 +23,4 @@ dependencies {
 task runClient(type:jython.JythonTask) {
 	script file('client.py')
 }
-
 
