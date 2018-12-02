@@ -10,7 +10,7 @@ The client is extremely basic: It simply outputs whatever string is sent to it f
 To run the client, you will need the following:
 
 * An up-to-date version of [Jython](http://www.jython.org/downloads.html); at the time of writing, this is 2.7.0. This document assumes that `jython` is in your PATH, so you can simply call it as `jython` on the command line. Otherwise, replace `jython` below with its absolute pathname.
-* The DialogOS client library, which you can [download here](https://github.com/dialogos-project/dialogos/releases/download/2.0.3/dialogos-client-2.0.3.jar). This document assumes that you put the file into dialogos-client-2.0.3.jar in your current directory; you can also put it somewhere else, and will then have to adjust the paths below as needed.
+* The DialogOS client library, which you can [download here](https://github.com/dialogos-project/dialogos/releases/download/2.0.3/dialogos-client-2.0.3.jar). This document assumes that you save the file as `dialogos-client-2.0.3.jar` in your current directory; you can also put it somewhere else, and will then have to adjust the paths below as needed.
 
 Run the client as follows:
 
